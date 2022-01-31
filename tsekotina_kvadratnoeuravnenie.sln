@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tsekotina_kvadratnoeuravnenie", "tsekotina_kvadratnoeuravnenie\tsekotina_kvadratnoeuravnenie.pyproj", "{BA166382-FB46-4B68-AAD2-86088C0DE854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA166382-FB46-4B68-AAD2-86088C0DE854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA166382-FB46-4B68-AAD2-86088C0DE854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D4898B-D283-4F09-9E24-3E84EC9BB0E9}
+	EndGlobalSection
+EndGlobal
